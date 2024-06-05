@@ -1,0 +1,19 @@
+## Descargar ChatNimbus
+
+Puedes descargar la versión beta de ChatNimbus desde [aquí](https://mega.nz/file/3Z03WRyI#DsEZv0hnvtWPhdKEwza1L4eRnRxsE1y52_Ri_fx8IQ0).
+
+## Características
+
+- Integración con Twitch
+- Comandos personalizados
+- Soporte para emotes
+- Interfaz de usuario intuitiva
+
+## Instalación
+
+Para instalar y ejecutar ChatNimbus, sigue estos pasos:
+
+1. Descarga el archivo ejecutable desde el enlace anterior.
+2. Ejecuta el archivo descargado:
+   ```sh
+   ./ChatNimbus.exe
